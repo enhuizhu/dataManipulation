@@ -46,33 +46,33 @@ let updatedBaseObj = dataService.dataManipulation(baseObj, entry);
 /*
 updatedBaseObj will be:
 {
-	"count": 16,
-	"amount_total": 442,
-	"num_items_total": 5,
-	"gender": {
-		"F": {
-			"count": 5,
-			"amount_total": 225,
-			"num_items_total": 3
-		},
-		"M": {
-			"count": 11,
-			"amount_total": 217,
-			"num_items_total": 7
-		}
-	},
-	"currency": {
-		"EUR": {
-			"count": 14,
-			"amount_total": 192,
-			"num_items_total": 8
-		},
-		"USD": {
-			"count": 2,
-			"amount_total": 250,
-			"num_items_total": 6
-		}
-	}
+    "count": 16,
+    "amount_total": 442,
+    "num_items_total": 5,
+    "gender": {
+        "F": {
+            "count": 5,
+            "amount_total": 225,
+            "num_items_total": 3
+        },
+        "M": {
+            "count": 11,
+            "amount_total": 217,
+            "num_items_total": 7
+        }
+    },
+    "currency": {
+        "EUR": {
+            "count": 14,
+            "amount_total": 192,
+            "num_items_total": 8
+        },
+        "USD": {
+            "count": 2,
+            "amount_total": 250,
+            "num_items_total": 6
+        }
+    }
 }
 */
 ```
